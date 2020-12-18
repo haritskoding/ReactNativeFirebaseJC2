@@ -3,5 +3,5 @@
 ## created By # &copy;Teguh Muhammad Harits
 
 ## this is my application picture
-![alt text](https://github.com/haritskoding/ReactNativeFirebaseJC2/blob/main/src/assets/gambar1.jpeg?raw=true)
+
 <img src="https://github.com/haritskoding/ReactNativeFirebaseJC2/blob/main/src/assets/gambar1.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
