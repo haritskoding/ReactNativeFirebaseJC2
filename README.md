@@ -1,4 +1,4 @@
-# Ujian Ke -2 JUARA CODING PT DIKA 
+# Ujian React Native Ke -2 JUARA CODING PT DIKA 
 
 ## created By # &copy;Teguh Muhammad Harits
 
